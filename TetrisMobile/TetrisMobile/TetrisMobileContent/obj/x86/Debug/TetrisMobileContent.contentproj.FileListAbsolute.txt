@@ -1,0 +1,2 @@
+C:\Users\denem\Documents\Visual Studio 2015\Projects\TetrisMobile\TetrisMobile\TetrisMobileContent\obj\x86\Debug\TetrisMobileContent.contentprojResolveAssemblyReference.cache
+C:\Users\denem\Documents\Visual Studio 2015\TetrisMobile\TetrisMobile\TetrisMobileContent\obj\x86\Debug\TetrisMobileContent.contentprojResolveAssemblyReference.cache

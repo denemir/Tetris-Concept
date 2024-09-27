@@ -1,0 +1,3 @@
+Content\Block.xnb
+Content\Block 2.xnb
+Content\Fancy Block.xnb
